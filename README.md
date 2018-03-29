@@ -1,3 +1,3 @@
-## GitHub Pages
+## My GitHub Page
 
-bschev.github.io
+[bschev.github.io](https://bschev.github.io)
